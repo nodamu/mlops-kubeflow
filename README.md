@@ -13,4 +13,4 @@ Check out the official [documentation](https://www.kubeflow.org/docs/started/get
 
 ## 2. ML workflow
 
-- 
+![](flow.png)
